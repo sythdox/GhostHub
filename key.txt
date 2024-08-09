@@ -1,2 +1,2 @@
-local key = "TheFirstEverKey"
+local key = "TheSecondEverKey"
 return key
