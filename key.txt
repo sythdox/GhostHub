@@ -1,1 +1,2 @@
-TheFirstEverKey
+local key = "TheFirstEverKey"
+return key
